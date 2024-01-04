@@ -8,4 +8,4 @@
 
 # Pinned Repositories
 
-- [Adjacent Word Letter Search]([link-to-repository-1](https://github.com/dikaler/Adjacent-Letter-Word-Search)https://github.com/dikaler/Adjacent-Letter-Word-Search)
+- Adjacent Word Letter Search https://github.com/dikaler/Adjacent-Letter-Word-Search)https://github.com/dikaler/Adjacent-Letter-Word-Search
