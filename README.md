@@ -7,7 +7,7 @@ Recent Graduate/Junior Software Developer
 I am a recent graduate with hands-on experience in software design, development, and testing. My skills include HTML/CSS, JavaScript, and C++. However, I am particularly skilled with Python and Java. I have been continuously learning new technologies and honing my skills by creating projects which you can find here.
 
 * 🌍  I'm based in New York
-* 🖥️  See my portfolio at [here](http://https://dikaler.github.io/)
+* 🖥️  See my portfolio at [here](https://dikaler.github.io/)
 * ✉️  You can contact me at [dkaler2001@gmail.com](mailto:dkaler2001@gmail.com)
 * 🤝  I'm open to collaborating on that projects involve implementing and or enhancing user interfaces
 
