@@ -1,7 +1,7 @@
 Hi 👋 My name is David Kaler
 ============================
 
-Recent Graduate/Software Developer
+Recent Graduate/Junior Software Developer
 ----------------------------
 
 I am a recent graduate with hands-on experience in software design, development, and testing. My skills include HTML/CSS, JavaScript, and C++. However, I am particularly skilled with Python and Java. I have been continuously learning new technologies and honing my skills by creating projects which you can find here.
