@@ -35,5 +35,4 @@ I am a recent graduate with hands-on experience in software design, development,
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/davidkaler3698?ext=heatmap)
 
-[![NBA Scraper Tool](https://github-readme-stats.vercel.app/api/pin/?username=dikaler&repo=NBA-Scraper-Tool&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en)](https://github.com/dikaler/NBA-Scraper-Tool)
 
