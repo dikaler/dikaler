@@ -25,6 +25,7 @@ I am a recent graduate with hands-on experience in software design, development,
 
 ### My Leetcode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/davidkaler3698?ext=heatmap)
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/davidkaler3698?ext=heatmap) -->
+![Leetcode Stats](https://leetcard.jacoblin.cool/davidkaler3698?)
 
 
